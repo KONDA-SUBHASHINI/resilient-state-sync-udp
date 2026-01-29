@@ -1,0 +1,23 @@
+# Mesh Sync - Requirements
+# 
+# This project uses only Python standard library
+# No external dependencies required!
+#
+# Minimum Python version: 3.7+
+#
+# Standard library modules used:
+# - socket (networking)
+# - threading (concurrency)
+# - json (serialization)
+# - struct (binary packing)
+# - hashlib (checksums)
+# - logging (diagnostics)
+# - time (timestamps)
+# - queue (thread-safe queues)
+# - collections (defaultdict)
+# - dataclasses (data structures)
+# - typing (type hints)
+
+# For development/testing (optional):
+# pytest>=7.0.0
+# pytest-timeout>=2.1.0
